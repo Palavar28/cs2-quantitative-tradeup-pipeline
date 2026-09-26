@@ -1,4 +1,10 @@
 .env
 __pycache__/
 *.pyc
-
+deneme/
+deneme_test.py
+weblinks.csv
+industrial_report.md
+cs2_takas/deneme_test.py
+cs2_takas/weblinks.csv
+cs2_takas/industrial_report.md
